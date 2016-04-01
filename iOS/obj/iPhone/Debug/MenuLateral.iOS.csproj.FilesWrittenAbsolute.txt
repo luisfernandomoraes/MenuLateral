@@ -1,0 +1,17 @@
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/build-iphone5.4-9.3/actool/partial-info.plist
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/build-iphone5.4-9.3/actool/asset-manifest.plist
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/optimized/
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/MenuLateral.iOS.exe.mdb
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/MenuLateral.iOS.exe
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/MenuLateral.iOS.exe
+/Users/softecsulmac/Projects/MenuLateral/iOS/obj/iPhone/Debug/MenuLateral.iOS.exe.mdb
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/MenuLateral.dll
+/Users/softecsulmac/Projects/MenuLateral/iOS/bin/iPhone/Debug/MenuLateral.dll.mdb

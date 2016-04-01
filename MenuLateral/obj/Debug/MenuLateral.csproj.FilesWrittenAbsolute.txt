@@ -1,0 +1,13 @@
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MenuLateral.MainPage.xaml
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MenuLateral.MainMenu.xaml
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MenuLateral.HomePage.xaml
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/bin/Debug/Xamarin.Forms.Core.dll
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MainPage.xaml.g.cs
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MainMenu.xaml.g.cs
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/HomePage.xaml.g.cs
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/bin/Debug/MenuLateral.dll.mdb
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/bin/Debug/MenuLateral.dll
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MenuLateral.dll
+/Users/softecsulmac/Projects/MenuLateral/MenuLateral/obj/Debug/MenuLateral.dll.mdb
